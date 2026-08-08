@@ -3,6 +3,9 @@ import time
 from sense_hat import SenseHat
 
 sense = SenseHat()
+
+ice_blue = (0,150,255)
+
 def get_calibrated_temp():
 
         # Get raw temperature from the Sense HAT sensors
@@ -18,3 +21,5 @@ def get_calibrated_temp():
         return t_calibrated
 
 print(f"Calibrated Temp: {get_calibrated_temp():.2f}C")
+
+sense.show_message(f"{get_calibrated_temp():.2f}C", text_colour = ice_blue)
