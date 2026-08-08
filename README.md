@@ -4,7 +4,7 @@ This piece of hardware is used along with SenseHat. Coding for fun and potential
 # Content
 | Files  | Description | Picture |
 | ------------- | ------------- | --------------- |
-| heart.py  | Content Cell  |
+| heart.py  | Make a red heart using SenseHat | <img width="300" alt="image" src="https://github.com/user-attachments/assets/25ee55df-54e1-4e63-a9c6-aedc0c7b5931" /> |
 | humidity_detector.py  | Content Cell  |
 | letter.py  | Content Cell  |
 | phrase.py  | Content Cell  |
