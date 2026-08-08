@@ -6,7 +6,7 @@ This piece of hardware is used along with SenseHat. Coding for fun and potential
 | ------------- | ------------- | --------------- |
 | heart.py  | Make a red heart using SenseHat | <img width="300" alt="image" src="https://github.com/user-attachments/assets/25ee55df-54e1-4e63-a9c6-aedc0c7b5931" /> |
 | humidity_detector.py  | Content Cell  |
-| letter.py  | Content Cell  |
+| letter.py  | Print a letter on SenseHat | <img width="300" alt="image" src="https://github.com/user-attachments/assets/958900f5-e603-4fd9-a62c-921ac1dbb370" /> |
 | phrase.py  | Content Cell  |
 | temp_calibration.py  | Content Cell  |
 | temperature_detector.py  | Content Cell  |
