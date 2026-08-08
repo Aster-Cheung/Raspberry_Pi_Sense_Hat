@@ -1,3 +1,6 @@
 from sense_hat import SenseHat
 sense = SenseHat()
-sense.show_message("Hello! My name is Aster.")
+
+purple = (128, 0, 128)
+
+sense.show_message("Hello! My name is Aster.", text_colour = purple)
